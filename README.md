@@ -1,4 +1,7 @@
 # u2-python-lesson2-assessment
+
+Testing for How do you check branches have changed, and merge them, in GitHub?
+
 This repository contains materials for U2 Coding with Python – Lesson 2: Assessment.
 
 This assessment covers assessment criteria:-
